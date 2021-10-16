@@ -1,0 +1,6 @@
+framework module Pods_Keychain_test_task {
+  umbrella header "Pods-Keychain_test-task-umbrella.h"
+
+  export *
+  module * { export * }
+}
